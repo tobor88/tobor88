@@ -1,42 +1,42 @@
 ### Hi there I'' Robert H. Osborne
-__CONTACT ME:__ <rosborne@osbornepro.com> 
-I'm a Computer Systems & Security Analst at USA Volleyball. 
+I'm a Computer Systems & Security Analyst at USA Volleyball. 
 I specialize in cyber security and I love making my own tools to protect my environment.If you find any of my code useful don't forget to leave a star or follow me!
 [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
+<br>
+__CONTACT ME:__ <rosborne@osbornepro.com> 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
+### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
+        <span>__𝗖__</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
+        <span>__𝗖#__</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span>PowerShell</span><br><br><br>
+        <span>__PowerShell__</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/theJasonHelmick/PowerShellImages/master/Icons/ps_black_128.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span>__𝗣𝘆𝘁𝗵𝗼𝗻__</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Atom</span><br><br><br>
+        <span>__Atom__</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/atom.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>__𝗚𝗶𝘁__</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>__𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲__</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
