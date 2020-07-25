@@ -7,6 +7,39 @@ __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor8
 I'm like to meet new people especially those who code so if you want to say hi I'm happy to chat!<br>
 __CONTACT ME:__ <rosborne@osbornepro.com> 
 
+### Coding Life
+```python3
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import coffee
+from dairy import cream
+
+
+aspnetmug = refill(coffee, cream)
+
+def refill(x, y):
+  return x + y
+ 
+def code(c):
+  return c
+  if c:
+    print("I am the best")
+  else:
+    while c == "Error"
+      print("What the heck am I missing!")
+      code(c)
+
+  
+while caffeine_level != 95mg:
+  caffeine_level += drink
+  aspnetmug -= drink
+  code(type)
+  if aspnetmug == 0:
+    aspnetmug = refill(coffee, cream)
+    
+print("ahhhh :)")
+```
+
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
   <tbody>
@@ -16,7 +49,7 @@ __CONTACT ME:__ <rosborne@osbornepro.com>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>C#_</span><br><br><br>
+        <span>C#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
