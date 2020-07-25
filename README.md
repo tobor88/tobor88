@@ -52,6 +52,6 @@ I specialize in cyber security and I love making my own tools to protect my envi
 - [![](https://img.shields.io/badge/LinkedIn-roberthosborne-blue)](https://www.linkedin.com/in/roberthosborne)
 - [![](https://img.shields.io/badge/GitHub-tobor88-blue)](https://github.com/tobor88)
 - [![](https://img.shields.io/badge/GitLab-tobor88-blue)](https://gitlab.com/tobor88)
-- [![](https://img.shields.io/badge/PS Gallery-tobor-blue](https://www.powershellgallery.com/profiles/tobor)
+- [![](https://img.shields.io/badge/PSGallery-tobor-blue)](https://www.powershellgallery.com/profiles/tobor)
 - [![](https://img.shields.io/badge/HackTheBox-tobor-blue)](https://www.hackthebox.eu/profile/52286)
 - [![](https://img.shields.io/badge/Acclaim-roberthosborne-blue)](https://www.youracclaim.com/users/roberthosborne/badges)
