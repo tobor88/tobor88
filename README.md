@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'' Robert H. Osborne
 
-<!--
-**tobor88/tobor88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems & Security Analst at USA Volleyball. 
+I specialize in cyber security and I love making my own tools to protect my environment.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### LINKS
+- [My Site](https://roberthosborne.com)
+- [Github Site](https://osbornepro.com)
+- [GitHub](https://github.com/tobor88)
+- [GitLab](https://gitlab.com/tobor88)
+- [PS Gallery](https://www.powershellgallery.com/profiles/tobor)
+- [HTB Profile](https://www.hackthebox.eu/profile/52286)
+- [My Acclaim](https://www.youracclaim.com/users/roberthosborne/badges)
