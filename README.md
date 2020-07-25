@@ -3,7 +3,8 @@ I'm a Computer Systems & Security Analyst at USA Volleyball.
 I specialize in cyber security and I love making my own tools to protect my environment.If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
-I'm like to meet new people especially those who code so if you want to say hi I'm happy to chat
+<br>
+I'm like to meet new people especially those who code so if you want to say hi I'm happy to chat!<br>
 __CONTACT ME:__ <rosborne@osbornepro.com> 
 
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
