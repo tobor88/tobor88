@@ -48,10 +48,10 @@ I specialize in cyber security and I love making my own tools to protect my envi
 
 #### MY LINKS
 - [![](https://img.shields.io/badge/MySite-roberthosborne-red)](https://roberthosborne.com)
-- [![](https://img.shields.io/badge/GitHubSite-tobor88-black)](https://osbornepro.com)
-- [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
-- [![](https://img.shields.io/badge/GitHub-tobor88-black)](https://github.com/tobor88)
 - [![](https://img.shields.io/badge/GitLab-tobor88-orange)](https://gitlab.com/tobor88)
-- [![](https://img.shields.io/badge/PSGallery-tobor-darkblue)](https://www.powershellgallery.com/profiles/tobor)
+- [![](https://img.shields.io/badge/GitHubSite-tobor88-yellow)](https://osbornepro.com)
 - [![](https://img.shields.io/badge/HackTheBox-tobor-green)](https://www.hackthebox.eu/profile/52286)
+- [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
+- [![](https://img.shields.io/badge/GitHub-tobor88-lightgray)](https://github.com/tobor88)
+- [![](https://img.shields.io/badge/PSGallery-tobor-darkblue)](https://www.powershellgallery.com/profiles/tobor)
 - [![](https://img.shields.io/badge/Acclaim-roberthosborne-blue)](https://www.youracclaim.com/users/roberthosborne/badges)
