@@ -47,11 +47,11 @@ I specialize in cyber security and I love making my own tools to protect my envi
 ![HackTheBox Stats](https://www.hackthebox.eu/badge/image/52286)
 
 #### MY LINKS
-- [My Site](https://roberthosborne.com)
-- [Github Site](https://osbornepro.com)
-- [LinkedIn](https://www.linkedin.com/in/roberthosborne
-- [GitHub](https://github.com/tobor88)
-- [GitLab](https://gitlab.com/tobor88)
-- [PS Gallery](https://www.powershellgallery.com/profiles/tobor)
-- [HTB Profile](https://www.hackthebox.eu/profile/52286)
-- [My Acclaim](https://www.youracclaim.com/users/roberthosborne/badges)
+- [![](https://img.shields.io/badge/MySite-roberthosborne-blue)](https://roberthosborne.com)
+- [![](https://img.shields.io/badge/GitHubSite-tobor88-blue)](https://osbornepro.com)
+- [![](https://img.shields.io/badge/LinkedIn-roberthosborne-blue)](https://www.linkedin.com/in/roberthosborne)
+- [![](https://img.shields.io/badge/GitHub-tobor88-blue)](https://github.com/tobor88)
+- [![](https://img.shields.io/badge/GitLab-tobor88-blue)](https://gitlab.com/tobor88)
+- [![](https://img.shields.io/badge/PS Gallery-tobor-blue](https://www.powershellgallery.com/profiles/tobor)
+- [![](https://img.shields.io/badge/HackTheBox-tobor-blue)](https://www.hackthebox.eu/profile/52286)
+- [![](https://img.shields.io/badge/Acclaim-roberthosborne-blue)](https://www.youracclaim.com/users/roberthosborne/badges)
