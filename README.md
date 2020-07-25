@@ -27,17 +27,21 @@ __CONTACT ME:__ <rosborne@osbornepro.com>
       </td>
     </tr>
     <tr valign="top">
+    <td width="25%" align="center">
+        <span>Golang</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/svg/golang_2.svg">
+      </td>
       <td width="25%" align="center">
         <span>Atom</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/atom.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
         <span>Visual Studio</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
