@@ -10,33 +10,33 @@ __CONTACT ME:__ <rosborne@osbornepro.com>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>__𝗖__</span><br><br><br>
+        <span>C</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>__𝗖#__</span><br><br><br>
+        <span>C#_</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span>__PowerShell__</span><br><br><br>
+        <span>PowerShell</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/theJasonHelmick/PowerShellImages/master/Icons/ps_black_128.svg">
       </td>
       <td width="25%" align="center">
-        <span>__𝗣𝘆𝘁𝗵𝗼𝗻__</span><br><br><br>
+        <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>__Atom__</span><br><br><br>
+        <span>Atom</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/atom.svg">
       </td>
       <td width="25%" align="center">
-        <span>__𝗚𝗶𝘁__</span><br><br><br>
+        <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>__𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲__</span><br><br><br>
+        <span>Visual Studio</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
