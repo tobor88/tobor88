@@ -82,7 +82,7 @@ def code(c):
   if c:
     continue
   else:
-    while str(c) == "Error"
+    while str(c) == "Error":
       print("What the heck am I missing!")
       code(c)
 
