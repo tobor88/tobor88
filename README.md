@@ -50,7 +50,7 @@ __CONTACT ME:__ <rosborne@osbornepro.com>
 </table>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-![Github Stats]()
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&hide_border=true)
 ![HackTheBox Stats](https://www.hackthebox.eu/badge/image/52286)
 <hr>
 
