@@ -80,9 +80,9 @@ def refill(x, y):
 def code(c):
   return c
   if c:
-    print("I am the best")
+    continue
   else:
-    while c == "Error"
+    while str(c) == "Error"
       print("What the heck am I missing!")
       code(c)
 
