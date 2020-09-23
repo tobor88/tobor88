@@ -1,6 +1,6 @@
 ### Hi there I'm Robert H. Osborne
 I'm a Computer Systems & Security Analyst for USA Volleyball. 
-I specialize in cyber security and I enjoy making my own tools to protect my environment. If you find any of my code useful don't forget to leave a star or <br>
+I specialize in cyber security and I genuinely enjoy it. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
 <br>
