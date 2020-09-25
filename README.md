@@ -58,7 +58,7 @@ __CONTACT ME:__ <rosborne@osbornepro.com>
 - [![](https://img.shields.io/badge/MySite-roberthosborne-red)](https://roberthosborne.com)
 - [![](https://img.shields.io/badge/GitLab-tobor88-orange)](https://gitlab.com/tobor88)
 - [![](https://img.shields.io/badge/GitHubSite-tobor88-yellow)](https://www.osbornepro.com)
-- [![](https://img.shields.io/badge/GitHubSite-tobor88-black)](https://btps-secpack.com)
+- [![](https://img.shields.io/badge/BTPS-SecPack-black)](https://btps-secpack.com)
 - [![](https://img.shields.io/badge/HackTheBox-tobor-green)](https://www.hackthebox.eu/profile/52286)
 - [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
 - [![](https://img.shields.io/badge/GitHub-tobor88-lightgray)](https://github.com/tobor88)
