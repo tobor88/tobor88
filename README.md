@@ -35,7 +35,7 @@ __CONTACT ME:__ <rosborne@osbornepro.com>
       </td>
       <td width="25%" align="center">
         <span>Atom</span><br><br><br>
-        <img height="64px" src="http://voidcanvas.com/wp-content/uploads/2017/10/feature.png">
+        <img height="64px" src="https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-no_shadows-512.png">
       </td>
       <td width="25%" align="center">
         <span>Visual Studio</span><br><br><br>
