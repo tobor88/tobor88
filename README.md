@@ -1,10 +1,10 @@
 ### Hi there I'm Robert H. Osborne
-I'm a Computer Systems & Security Analyst for USA Volleyball. 
+I'm a Computer Systems & Security Analyst for USA Volleyball and the President of OsbornePro LLC.
 I specialize in cyber security and I genuinely enjoy it. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
 <br>
-I like to meet new people especially those who code so if you want to say hi I'm happy to chat!<br>
+I am happy to make improvements to my code and meet new people, especially those who code so if you want to say hi I'm happy to chat!<br>
 __CONTACT ME:__ <rosborne@osbornepro.com> 
 
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
