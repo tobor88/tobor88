@@ -5,7 +5,7 @@ __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor8
 <br>
 <br>
 I am happy to make improvements to my code and meet new people, especially those who code so if you want to say hi I'm happy to chat!<br>
-__CONTACT ME:__ <rosborne@osbornepro.com> 
+__CONTACT ME:__ <rosborne@osbornepro.com> <br>
 [SUBSCRIBE TO MY YOUTUBE CHANNEL](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA?sub_confirmation=1)
 
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
