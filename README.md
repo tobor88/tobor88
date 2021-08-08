@@ -3,9 +3,10 @@ I'm a Computer Systems & Security Analyst for USA Volleyball and the President o
 I specialize in cyber security and I genuinely enjoy it. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
-<br>
-I am happy to make improvements to my code and meet new people, especially those who code so if you want to say hi I'm happy to chat!<br>
 __CONTACT ME:__ <rosborne@osbornepro.com> <br>
+<br>
+I have a YouTube channel where I cover how to use some different technologies and secure protocols and such. If this is something that may benefit you I believe my videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!<br>
+<br>
 [SUBSCRIBE TO MY YOUTUBE CHANNEL](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA?sub_confirmation=1)
 
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
