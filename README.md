@@ -6,7 +6,6 @@ __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor8
 __CONTACT ME:__ <rosborne@osbornepro.com> <br>
 <br>
 I have a YouTube channel where I cover how to use some different technologies and secure protocols and such. If this is something that may benefit you I believe my videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!<br>
-<br>
 [SUBSCRIBE TO MY YOUTUBE CHANNEL](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA?sub_confirmation=1)
 <br>
 
@@ -59,14 +58,15 @@ I have a YouTube channel where I cover how to use some different technologies an
 
 #### MY LINKS
 - [![](https://img.shields.io/badge/Official-OsbornePro-red)](https://osbornepro.com)
-- [![Download EncrypIT](https://img.shields.io/sourceforge/dt/encrypit.svg)](https://sourceforge.net/projects/encrypit/files/latest/download)
+- [![Download EncrypIT](https://img.shields.io/badge/SourceForge-EncrypIT)](https://sourceforge.net/projects/encrypit/files/latest/download)
 - [![](https://img.shields.io/badge/GitLab-tobor88-orange)](https://gitlab.com/tobor88)
+- [![](https://img.shields.io/badge/GitHub-tobor88-lightgray)](https://github.com/tobor88)
+- [![](https://img.shields.io/badge/GitHub-OsbornePro-lightgray)](https://github.com/OsbornePro)
 - [![](https://img.shields.io/badge/HTB-Writeups-yellow)](https://writeups.osbornepro.com)
 - [![](https://img.shields.io/badge/BTPS-SecPack-black)](https://btpssecpack.osbornepro.com)
 - [![](https://img.shields.io/badge/HackTheBox-tobor-green)](https://www.hackthebox.eu/profile/52286)
+- [![](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/c/OsborneProLLC)
 - [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
-- [![](https://img.shields.io/badge/GitHub-tobor88-lightgray)](https://github.com/tobor88)
-- - [![](https://img.shields.io/badge/GitHub-OsbornePro-lightgray)](https://github.com/OsbornePro)
 - [![](https://img.shields.io/badge/PSGallery-tobor-darkblue)](https://www.powershellgallery.com/profiles/tobor)
 - [![](https://img.shields.io/badge/Credly-roberthosborne-blue)](https://www.credly.com/users/roberthosborne/badges)
 
