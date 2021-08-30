@@ -58,7 +58,7 @@ I have a YouTube channel where I cover how to use some different technologies an
 
 #### MY LINKS
 - [![](https://img.shields.io/badge/Official-OsbornePro-red)](https://osbornepro.com)
-- [![Download EncrypIT](https://img.shields.io/badge/SourceForge-EncrypIT)](https://sourceforge.net/projects/encrypit/files/latest/download)
+- [![Download EncrypIT](https://img.shields.io/badge/EncrypIT)](https://sourceforge.net/projects/encrypit/files/latest/download)
 - [![](https://img.shields.io/badge/GitLab-tobor88-orange)](https://gitlab.com/tobor88)
 - [![](https://img.shields.io/badge/GitHub-tobor88-lightgray)](https://github.com/tobor88)
 - [![](https://img.shields.io/badge/GitHub-OsbornePro-lightgray)](https://github.com/OsbornePro)
