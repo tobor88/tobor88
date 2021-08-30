@@ -9,8 +9,6 @@ I have a YouTube channel where I cover how to use some different technologies an
 <br>
 [SUBSCRIBE TO MY YOUTUBE CHANNEL](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA?sub_confirmation=1)
 <br>
-__DOWNLOAD EncrypIT:__<br>
-[![Download EncrypIT](https://sourceforge.net/sflogo.php?type=11&group_id=3377857)](https://sourceforge.net/p/encrypit/)
 
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
@@ -60,15 +58,17 @@ __DOWNLOAD EncrypIT:__<br>
 <hr>
 
 #### MY LINKS
-- [![](https://img.shields.io/badge/MySite-roberthosborne-red)](https://roberthosborne.com)
+- [![](https://img.shields.io/badge/Official-OsbornePro-red)](https://osbornepro.com)
+- [![Download EncrypIT](https://img.shields.io/sourceforge/dt/encrypit.svg)](https://sourceforge.net/projects/encrypit/files/latest/download)
 - [![](https://img.shields.io/badge/GitLab-tobor88-orange)](https://gitlab.com/tobor88)
-- [![](https://img.shields.io/badge/GitHubSite-tobor88-yellow)](https://www.osbornepro.com)
-- [![](https://img.shields.io/badge/BTPS-SecPack-black)](https://btps-secpack.com)
+- [![](https://img.shields.io/badge/HTB-Writeups-yellow)](https://writeups.osbornepro.com)
+- [![](https://img.shields.io/badge/BTPS-SecPack-black)](https://btpssecpack.osbornepro.com)
 - [![](https://img.shields.io/badge/HackTheBox-tobor-green)](https://www.hackthebox.eu/profile/52286)
 - [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
 - [![](https://img.shields.io/badge/GitHub-tobor88-lightgray)](https://github.com/tobor88)
+- - [![](https://img.shields.io/badge/GitHub-OsbornePro-lightgray)](https://github.com/OsbornePro)
 - [![](https://img.shields.io/badge/PSGallery-tobor-darkblue)](https://www.powershellgallery.com/profiles/tobor)
-- [![](https://img.shields.io/badge/Acclaim-roberthosborne-blue)](https://www.youracclaim.com/users/roberthosborne/badges)
+- [![](https://img.shields.io/badge/Credly-roberthosborne-blue)](https://www.credly.com/users/roberthosborne/badges)
 
 ### Coding Life
 ```python3
