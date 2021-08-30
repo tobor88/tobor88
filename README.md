@@ -8,6 +8,9 @@ __CONTACT ME:__ <rosborne@osbornepro.com> <br>
 I have a YouTube channel where I cover how to use some different technologies and secure protocols and such. If this is something that may benefit you I believe my videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!<br>
 <br>
 [SUBSCRIBE TO MY YOUTUBE CHANNEL](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA?sub_confirmation=1)
+<br>
+__DOWNLOAD EncrypIT:__<br>
+[![Download EncrypIT](https://sourceforge.net/sflogo.php?type=11&group_id=3377857)](https://sourceforge.net/p/encrypit/)
 
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
