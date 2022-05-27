@@ -32,8 +32,8 @@ I have a YouTube channel where I cover how to use some different technologies an
     </tr>
     <tr valign="top">
     <td width="25%" align="center">
-        <span>Golang</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/svg/golang_2.svg">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span>Atom</span><br><br><br>
