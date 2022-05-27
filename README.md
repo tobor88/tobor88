@@ -84,8 +84,6 @@ I have a YouTube channel where I cover how to use some different technologies an
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
-<hr>
-
 #### MY LINKS
 - [![](https://img.shields.io/badge/Official-OsbornePro-red)](https://osbornepro.com)
 - [![](https://img.shields.io/badge/Download-EncrypIT-darkblue)](https://sourceforge.net/projects/encrypit/files/latest/download)
