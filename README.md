@@ -1,6 +1,6 @@
 ### Hi there I'm Robert H. Osborne
-I'm a Computer Systems & Security Analyst for USA Volleyball and the President of OsbornePro LLC.
-I specialize in cyber security and I genuinely enjoy it. If you find any of my code useful don't forget to leave a star or <br>
+I'm a Systems Administrator Advisor for Vinebrook Technology and operate OsbornePro LLC.
+I specialize in cyber security and I genuinely enjoy technology. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
 __CONTACT ME:__ <rosborne@osbornepro.com> <br>
@@ -9,7 +9,9 @@ I have a YouTube channel where I cover how to use some different technologies an
 [SUBSCRIBE TO MY YOUTUBE CHANNEL](https://www.youtube.com/channel/UCSWdaQpT3W7UnugkWXsWEaA?sub_confirmation=1)
 <br>
 
-### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=aritra-tech.aritra-tech)
+
+### Tools & Languages
 <table>
   <tbody>
     <tr valign="top">
@@ -51,18 +53,7 @@ I have a YouTube channel where I cover how to use some different technologies an
   </tbody>
 </table>
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-
-<a href="https://github.com/tobor88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&theme=tokyonight&hide_langs_below=1" />
-</a>
-<a href="https://github.com/tobor88">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=tokyonight&line_height=27" alt="tobor's github stats"/>
-</a>
-
-![HackTheBox Stats](https://www.hackthebox.eu/badge/image/52286)
-
-## 🏆 Trophy
+# 🏆 GitHub Trophys
 ![trophy](https://github-profile-trophy.vercel.app/?username=tobor88)
 # Productivity Stats📈:
 <table>
@@ -76,7 +67,7 @@ I have a YouTube channel where I cover how to use some different technologies an
 </table>
 
 ## GitHub Activity
-| ![Arita github stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aritra-tech&theme=radical)                                                                                                           |
+| ![tobor88 github stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aritra-tech&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
