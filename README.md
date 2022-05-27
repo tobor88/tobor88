@@ -62,6 +62,28 @@ I have a YouTube channel where I cover how to use some different technologies an
 
 ![HackTheBox Stats](https://www.hackthebox.eu/badge/image/52286)
 
+## 🏆 Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=tobor88)
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobor88&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=tobor88&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
+## GitHub Activity
+| ![Arita github stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aritra-tech&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
+<h2>Joke of the Day <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
 <hr>
 
 #### MY LINKS
@@ -77,36 +99,3 @@ I have a YouTube channel where I cover how to use some different technologies an
 - [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
 - [![](https://img.shields.io/badge/PSGallery-tobor-darkblue)](https://www.powershellgallery.com/profiles/tobor)
 - [![](https://img.shields.io/badge/Credly-roberthosborne-blue)](https://www.credly.com/users/roberthosborne/badges)
-
-### Coding Life
-```python3
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-import coffee
-from dairy import cream
-
-
-aspnetmug = refill(coffee, cream)
-
-def refill(x, y):
-  return x + y
- 
-def code(c):
-  return c
-  if c:
-    continue
-  else:
-    while str(c) == "Error":
-      print("What the heck am I missing!")
-      code(c)
-
-  
-while caffeine_level != 95mg:
-  caffeine_level += drink
-  aspnetmug -= drink
-  code(type)
-  if aspnetmug == 0:
-    aspnetmug = refill(coffee, cream)
-    
-print("ahhhh :)")
-```
