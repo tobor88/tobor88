@@ -52,16 +52,16 @@ I have a YouTube channel where I cover how to use some different technologies an
 </table>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&hide_border=true)
 
-## My GitHub Stats
 <a href="https://github.com/tobor88">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&theme=tokyonight&hide_langs_below=1" />
 </a>
 <a href="https://github.com/tobor88">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=tokyonight&line_height=27" alt="tobor's github stats"/>
 </a>
+
 ![HackTheBox Stats](https://www.hackthebox.eu/badge/image/52286)
+
 <hr>
 
 #### MY LINKS
