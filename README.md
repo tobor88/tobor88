@@ -22,8 +22,8 @@ I have a YouTube channel where I cover how to use some different technologies an
         <img height="64px" src="https://raw.githubusercontent.com/theJasonHelmick/PowerShellImages/master/Icons/ps_black_128.svg">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>Bash</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
       <td width="25%" align="center">
         <span>.NET</span><br><br><br>
