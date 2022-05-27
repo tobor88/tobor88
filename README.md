@@ -5,14 +5,11 @@ __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor8
 <br>
 __CONTACT ME:__ <rosborne@osbornepro.com> <br>
 <br>
-I have a YouTube channel where I cover how to use some different technologies and secure protocols and such. If this is something that may benefit you I believe my videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!<br>
-
- <a href="https://www.youtube.com/c/OsborneProLLC?sub_confirmation=1)">
-    <img alt="Subscribe OsbornePro TV" title="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC65ksYjdenCfaTriVznWs2Q?style=social" />
+I have a YouTube channel where I cover how to use some different technologies and secure protocols and such. If this is something that may benefit you I believe my videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!  
+<a href="https://www.youtube.com/c/OsborneProLLC?sub_confirmation=1)">
+    <img alt="Subscribe OsbornePro TV" title="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCSWdaQpT3W7UnugkWXsWEaA?style=social" />
   </a>
 <br>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=tobor88)
 
  <a href="https://github.com/tobor88">
     <img src="https://badges.pufler.dev/years/tobor88?style=flat-square&color=black&logo=github&a=0" />
@@ -22,6 +19,7 @@ I have a YouTube channel where I cover how to use some different technologies an
   </a>
   
   <img src="https://badges.pufler.dev/repos/tobor88" />
+  
 ### Tools & Languages
 <table>
   <tbody>
