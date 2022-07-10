@@ -76,13 +76,13 @@ I have a YouTube channel where I cover how to use some different technologies an
 </table>
 
 ## GitHub Activity
-| ![tobor88 github stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=radical)             | ![tobor88 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tobor88&theme=radical)                                                                                                           |
+| ![tobor88 github stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=dark)             | ![tobor88 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tobor88&theme=dark)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&langs_count=8&theme=dark&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark) |
 
 <h2>Joke of the Day <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 #### MY LINKS
 - [![](https://img.shields.io/badge/Official-OsbornePro-red)](https://osbornepro.com)
