@@ -1,5 +1,5 @@
 ### Hi there I'm Robert H. Osborne
-I'm a Systems Administrator Advisor for Vinebrook Technology and operate OsbornePro LLC.
+I'm a Systems Engineer for Vinebrook Technology and operate OsbornePro LLC.
 I specialize in cyber security and I genuinely enjoy technology. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
