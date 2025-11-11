@@ -34,6 +34,10 @@ If you’re looking for detailed walkthroughs and real‑world tips, feel free t
         <span>.NET</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Ansible</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
+      </td>
     </tr>
     <tr valign="top">
     <td width="25%" align="center">
@@ -51,6 +55,10 @@ If you’re looking for detailed walkthroughs and real‑world tips, feel free t
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>YAML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/yaml.svg">
       </td>
     </tr>
   </tbody>
