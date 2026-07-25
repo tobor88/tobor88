@@ -1,5 +1,5 @@
 ### Hi there I'm Robert H. Osborne
-I'm a Senior Systems Engineer and DevOps Engineer for Vinebrook Technology and I operate OsbornePro LLC.
+I'm a Cloud Solutions and Automation Engineer for Vinebrook Technology and I operate OsbornePro LLC.
 I specialize in cyber security and automations, I genuinely enjoy technology. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
@@ -94,7 +94,7 @@ If you’re looking for detailed walkthroughs and real‑world tips, feel free t
 - [![](https://img.shields.io/badge/GitHub-OsbornePro-lightgray)](https://github.com/OsbornePro)
 - [![](https://img.shields.io/badge/HTB-Writeups-yellow)](https://writeups.osbornepro.com)
 - [![](https://img.shields.io/badge/BTPS-SecPack-black)](https://btpssecpack.osbornepro.com)
-- [![](https://img.shields.io/badge/HackTheBox-tobor-green)](https://www.hackthebox.eu/profile/52286)
+- [![](https://img.shields.io/badge/HackTheBox-tobor-green)](https://app.hackthebox.com/public/users/52286)
 - [![](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/c/OsborneProLLC)
 - [![](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue)](https://www.linkedin.com/in/roberthosborne)
 - [![](https://img.shields.io/badge/PSGallery-tobor-darkblue)](https://www.powershellgallery.com/profiles/tobor)
