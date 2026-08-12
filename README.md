@@ -1,12 +1,12 @@
 ### Hi there I'm Robert H. Osborne
-I'm a Cloud Solutions and Automation Engineer for Vinebrook Technology and I operate OsbornePro LLC.
+I'm a Platform Engineer for Vinebrook Technology and I operate OsbornePro LLC.
 I specialize in cyber security and automations, I genuinely enjoy technology. If you find any of my code useful don't forget to leave a star or <br>
 __FOLLOW ME!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
 <br>
 __CONTACT ME:__ <rosborne@osbornepro.com> <br>
 <br>
 I run a YouTube channel where I break down a variety of technologies and secure protocols. 
-As an IT admin who has had to wear every hat for organizations, I aim to go beyond the surface‑level tutorials you’ll find elsewhere—offering in‑depth, practical guides that can help you implement robust, secure solutions.
+I have had to wear every hat for organizations, I aim to go beyond the surface‑level tutorials you’ll find elsewhere—offering in‑depth, practical guides that can help you implement robust, secure solutions.
 If you’re looking for detailed walkthroughs and real‑world tips, feel free to check out the videos. I’d love for you to join the community!
 <a href="https://www.youtube.com/c/OsborneProLLC?sub_confirmation=1)">
     <img alt="Subscribe OsbornePro TV" title="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCSWdaQpT3W7UnugkWXsWEaA?style=social"/>
