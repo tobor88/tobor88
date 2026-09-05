@@ -228,19 +228,16 @@ Because serious engineering and shiny internet trophies don't have to be mutuall
 
 # 📈 GitHub Activity
 
-Yes, there are stats. It's GitHub. We have to have stats.
-
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobor88&theme=monokai" width="100%" height="auto" alt="GitHub Profile Details">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobor88&theme=monokai"
+           width="100%"
+           height="auto"
+           alt="GitHub Profile Details">
     </td>
   </tr>
 </table>
-
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobor88&show_icons=true&theme=dark&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobor88&langs_count=8&theme=dark&layout=compact) |
 
 ---
 
