@@ -5,7 +5,8 @@
 I'm a **Cloud Solutions & Automation Engineer at Vinebrook Technology** and the founder of **OsbornePro LLC**.
 
 I work across the boundaries of infrastructure, cloud, security, networking, identity, development, and automation. 
-Over the course of my career, I've had to wear a lot of hats, from administering and troubleshooting systems to engineering automation and designing solutions that span multiple technologies.
+My career has taken me across the technology stack. 
+From administering and troubleshooting systems to engineering automation and designing solutions that span infrastructure, cloud, networking, identity, security, and software.
 
 That breadth has shaped how I approach engineering today: **understand the whole system, automate what should be automated, secure it by design, and build solutions that someone can actually operate and maintain.**
 
@@ -36,26 +37,55 @@ My work tends to live where **systems, security, automation, and architecture in
 > **I like solving the problems that don't fit neatly into one technology stack.**
 
 ---
+## 🏗️ Selected Architecture & Engineering Case Studies
 
-## 🏗️ Case Studies & Engineering Work
+Code can show **what** someone built. I'm equally interested in documenting
+**why** it was built that way.
 
-Code can show **what** someone built. I'm equally interested in documenting **why** it was built that way.
+At **[OsbornePro.com](https://osbornepro.com)**, I publish technical articles
+and case studies covering the engineering behind real-world solutions.
 
-At **[OsbornePro.com](https://osbornepro.com)**, I publish technical articles and case studies covering the engineering behind real-world solutions.
+I focus on the parts that often get left out of technical tutorials:
+architecture decisions, constraints, security implications, tradeoffs,
+automation, failure modes, and long-term maintainability.
 
-I try to document the parts that often get left out of technical tutorials:
+### 🔹 Operations & Assurance Platform
 
-* What problem are we actually trying to solve?
-* What constraints influenced the architecture?
-* What security implications need to be considered?
-* Why choose one approach over another?
-* What failed along the way?
-* How can the solution be automated?
-* How do we make it maintainable after deployment?
+**Problem:** Rapid MSP growth created a need to systematically translate client SOW obligations into recurring, verifiable operational work. The platform needed to ensure contractual responsibilities were understood and performed, provide evidence of completion, manage recurring service and access-verification tasks, incorporate new clients into established operational workflows, account for staffing conflicts during maintenance windows, and identify work that fell outside contracted scope.
 
-For me, understanding those questions is the difference between simply getting technology to work and **engineering a solution**.
+**Approach:** Architected a centralized operations and assurance platform that converts client obligations and operational requirements into structured, trackable workflows for the engineering team. A Power Apps interface provides administrators with a centralized work queue, while Power Automate and SharePoint coordinate recurring tasks, onboarding workflows, maintenance activities, access verification, patching obligations, evidence collection, and management escalation.
 
-### ➜ [Explore my technical work and case studies at OsbornePro.com](https://osbornepro.com)
+The platform also incorporates AI-assisted review of out-of-band client project requests submitted through Microsoft Forms, helping determine whether requested work aligns with the client's SOW or requires separate billing and review.
+
+The supporting Azure architecture uses Functions and Storage Queues for backend processing, Key Vault for third-party API secrets, Managed Identities where supported to reduce credential exposure, and Azure Monitor and Log Analytics for application monitoring, alerting, and troubleshooting.
+
+**Key areas:** `Solution Architecture` · `Operational Governance` · `Automation` · `Power Platform` · `Azure` · `Security` · `Identity` · `Observability`
+
+[Read the Operations & Assurance Platform Case Study →](https://osbornepro.com/blogs/operations-assurance-platform)
+
+### 🔹 Patch Governance Platform
+
+**Problem:** Patch governance across an MSP required administrators to repeatedly perform the same research for each client-reviewing known issues, identifying applicable KBs by operating system, correlating security advisories, and gathering vendor-specific vulnerability information. This duplicated effort across the organization and made consistent patching decisions more difficult.
+
+**Approach:** Designed a centralized, tool-agnostic patch governance platform using SharePoint and automation to aggregate patching and security intelligence into a single operational resource. The platform collects information from Microsoft Graph, MSRC, Red Hat, Ubuntu, Action1, BleepingComputer, Palo Alto Networks, and other vendor and security feeds. A scheduled automation correlates the latest known issues, security advisories, and patch information and generates an interactive HTML report every Patch Tuesday, which is published to SharePoint for the engineering team.
+
+Administrators can then work from a common intelligence source and filter the information according to each client's environment and requirements, instead of independently repeating the same research for every customer.
+
+**Key areas:** `Solution Architecture` · `Patch Governance` · `Security` · `Automation` · `Microsoft Graph` · `SharePoint` · `API Integration`
+
+[Read the Patch Governance Platform Case Study →](https://osbornepro.com/blogs/tool-agnostic-patch-governance)
+
+### 🔹 DMARC Analytics Platform
+
+**Problem:** Gain visibility into SPF and DKIM authentication failures and provide the insight needed to safely progress toward a `p=reject` DMARC policy, while minimizing deployment time, operational complexity, and cost. The solution also needed to be repeatable, allowing an MSP to efficiently deploy the platform across multiple client environments.
+
+**Approach:** Designed an Azure-based DMARC analytics platform and automated its deployment using Bicep and Power Automate. The solution combines report ingestion, storage, SQL-based processing, and Grafana visualization to turn DMARC aggregate reports into actionable authentication data.
+
+**Key areas:** `Solution Architecture` · `Azure` · `Infrastructure as Code` · `Automation` · `DMARC` · `DKIM` · `SPF`
+
+[Read the DMARC Analytics Platform Case Study →](https://osbornepro.com/blogs/dmarc-analytics-platform)
+
+### ➜ [Explore all technical work and case studies at OsbornePro.com](https://osbornepro.com)
 
 ---
 
@@ -186,10 +216,6 @@ My goal has always been to go beyond surface-level *"click here, run this comman
 I want someone watching to understand **how the technology works, why we're configuring it this way, what can go wrong, and how to build it securely and maintainably.**
 
 If detailed walkthroughs and getting into the weeds sounds like your kind of thing, come join the community.
-
-<a href="https://www.youtube.com/c/OsborneProLLC?sub_confirmation=1">
-  <img alt="Subscribe to OsbornePro TV" title="OsbornePro YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCSWdaQpT3W7UnugkWXsWEaA?style=social"/>
-</a>
 
 [![YouTube](https://img.shields.io/badge/YouTube-OsbornePro%20TV-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/c/OsborneProLLC?sub_confirmation=1)
 
