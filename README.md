@@ -12,7 +12,7 @@ That breadth has shaped how I approach engineering today: **understand the whole
 
 A lot of what you'll find here is the result of that philosophy-tools, scripts, security projects, experiments, and solutions built while figuring out how things *really* work.
 
-[![Website](https://img.shields.io/badge/OsbornePro.com-Technical%20Case%20Studies-red)](https://osbornepro.com)
+[![Website](https://img.shields.io/badge/OsbornePro.com-Technical%20Case%20Studies-red)](https://writeups.osbornepro.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert%20H.%20Osborne-0A66C2)](https://www.linkedin.com/in/roberthosborne)
 [![GitHub followers](https://img.shields.io/github/followers/tobor88?label=Follow\&style=social)](https://github.com/tobor88)
 
