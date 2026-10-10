@@ -278,7 +278,7 @@ Because serious engineering and shiny internet trophies don't have to be mutuall
 [![OsbornePro](https://img.shields.io/badge/Official-OsbornePro-red?style=flat-square)](https://osbornepro.com)  
 [![NovaKey App](https://img.shields.io/badge/NovaKey-Documentation-purple?style=flat-square)](https://novakey.app)  
 [![RDAP-CLI](https://img.shields.io/badge/RDAP--CLI-Documentation-white?style=flat-square)](https://rdap-cli.osbornepro.com)  
-[![EncrypIT Docs](https://img.shields.io/badge/Official-OsbornePro-green?style=flat-square)](https://encrypit.osbornepro.com)  
+[![EncrypIT Docs](https://img.shields.io/badge/EncrypIT-Documentation-green?style=flat-square)](https://encrypit.osbornepro.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roberthosborne-lightblue?style=flat-square)](https://www.linkedin.com/in/roberthosborne)  
 [![YouTube](https://img.shields.io/badge/YouTube-OsbornePro%20TV-red?style=flat-square)](https://www.youtube.com/c/OsborneProLLC)  
 [![GitHub](https://img.shields.io/badge/GitHub-tobor88-lightgray?style=flat-square)](https://github.com/tobor88)  
